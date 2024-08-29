@@ -1,2 +1,2 @@
-* execute project - npm run dev
-* install dependencies npm install
+npm run dev
+npm install
